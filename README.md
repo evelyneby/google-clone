@@ -3,7 +3,7 @@
 
 Proyecto desarrollado en el bootcamp de Tecnolochicas PRO
 
-![Captura clon de google]()
+![Captura clon de google](Captura de google.png)
 
 ## ¿Qué construí?
 En este proyecto tuve como próposito construir la clonación de interfaz del navegador de Google.
