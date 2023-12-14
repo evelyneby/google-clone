@@ -20,5 +20,10 @@ Contiene los siguientes elementos
 
 ![Logo](https://raw.githubusercontent.com/diegoAlex24/HTML-CSS-examples/master/html-css-logo.jpg)
 
+Se uso Vercel para poder verlo en producción
+
 ## Mi objetivo
 Aprender a utilizar los lenguajes y las etiquetas principales de CSS Y HTML.
+
+## Visualización
+En el siguiente enlace se puede ver [Clon de google](https://google-clone-psi-six.vercel.app/).
