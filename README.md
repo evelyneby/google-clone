@@ -27,3 +27,7 @@ Aprender a utilizar los lenguajes y las etiquetas principales de CSS Y HTML.
 
 ## Visualización
 En el siguiente enlace se puede ver [Clon de google](https://google-clone-psi-six.vercel.app/).
+
+## 🔗 Más
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/evelyneby/evelyneby.github.io)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/evelyn-hern%C3%A1ndez-mart%C3%ADnez-a3a87b197/)https://www.linkedin.com/in/evelyn-hern%C3%A1ndez-mart%C3%ADnez-a3a87b197/)
