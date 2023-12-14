@@ -3,7 +3,8 @@
 
 Proyecto desarrollado en el bootcamp de Tecnolochicas PRO
 
-![Captura clon de google](Captura de google.PNG).
+![Captura de google](https://github.com/evelyneby/google-clone/assets/106703825/a9ade87d-29c1-4023-b3ad-d23fcf963afc)
+
 
 ## ¿Qué construí?
 En este proyecto tuve como próposito construir la clonación de interfaz del navegador de Google.
